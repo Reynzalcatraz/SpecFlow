@@ -1,0 +1,4 @@
+C:\Users\AJ\Desktop\RepoForEntrinsic\LearningCurve112\LearningCurve112\obj\Debug\netcoreapp3.1\LearningCurve112.csprojAssemblyReference.cache
+C:\Users\AJ\Desktop\RepoForEntrinsic\LearningCurve112\LearningCurve112\obj\Debug\netcoreapp3.1\LearningCurve112.AssemblyInfoInputs.cache
+C:\Users\AJ\Desktop\RepoForEntrinsic\LearningCurve112\LearningCurve112\obj\Debug\netcoreapp3.1\LearningCurve112.AssemblyInfo.cs
+C:\Users\AJ\Desktop\RepoForEntrinsic\LearningCurve112\LearningCurve112\obj\Debug\netcoreapp3.1\LearningCurve112.csproj.CoreCompileInputs.cache
